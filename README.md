@@ -1,4 +1,4 @@
-# Predict-Queue-Wait-Time---DBS6
+# Predict-Queue-Wait-Time in a Hospital
 
 We have all experienced waiting in long queues in hospital before we get treated. At times, it can be frustrating to wait and the patient's bad health adds the fuel to fire. But what if there is a way by which we can find out how much time we will have to wait in the hospital (based on live data) ?
 This is where our project comes in which will tell us the approximate queue wait time even before you enter the hospital and an exact time once you register on hospital reception !
